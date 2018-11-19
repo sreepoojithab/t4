@@ -1,0 +1,48 @@
+t1:https://github.com/shravya573/task1.git
+	https://shravya573.github.io/task1/
+
+
+t2:https://github.com/shravya573/task2.git
+	https://github.com/shravya573/task2.git
+
+
+t3:https://github.com/shravya573/task3.git
+
+	https://shravya573.github.io/task3/
+
+t4:https://github.com/shravya573/task4.git
+	https://shravya573.github.io/task4/
+
+
+t5:https://github.com/shravya573/task5.git
+	 https://shravya573.github.io/task5/
+
+
+t6:https://github.com/shravya573/task6.git
+	https://shravya573.github.io/task6/
+
+t7:https://github.com/shravya573/task3.git
+
+	https://shravya573.github.io/task3/
+
+
+
+
+t8:https://github.com/shravya573/resumeProject.git
+	 https://shravya573.github.io/resumeProject/
+
+
+
+t9:https://github.com/shravya573/resumeProject.git
+	 https://shravya573.github.io/resumeProject/
+
+
+
+
+
+
+
+p2:https://github.com/shravya573/resume-builer.git
+	 https://shravya573.github.io/resume-builer/
+
+
